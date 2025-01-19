@@ -36,8 +36,9 @@ Ce guide explique comment écrire une image Ubuntu pour Raspberry Pi (Desktop ou
    - Renseignez vos informations de réseau (SSID et mot de passe de votre routeur).
    - Configurez le nom d'utilisateur et le mot de passe par défaut.
 
-   *![image](https://github.com/user-attachments/assets/76905ea2-c7ce-424f-88a4-2e01bd1fde7f)*
-   *![image](https://github.com/user-attachments/assets/52c94c91-f69e-4f70-a609-27aa669e693c)*
+![image](https://github.com/user-attachments/assets/76905ea2-c7ce-424f-88a4-2e01bd1fde7f)
+
+![image](https://github.com/user-attachments/assets/52c94c91-f69e-4f70-a609-27aa669e693c)*
 
 7. Cliquez sur **Write** pour commencer l'écriture de l'image sur la carte SD.
 
@@ -136,13 +137,5 @@ Si vous avez déjà utilisé **Option 1**, vous pouvez ignorer cette étape. Sin
    ```
 
    *(Insérer ici une capture d'écran montrant la commande `sudo apt purge ubuntu-desktop`)*
-
----
-
-## Remarques et conseils
-
-- Si vous utilisez Raspberry Pi Imager, assurez-vous d’avoir une connexion Internet stable pour télécharger directement les images.
-- Sauvegardez vos données avant de flasher une nouvelle image ou de basculer entre les versions.
-- Si vous rencontrez des problèmes, consultez la [documentation officielle](https://ubuntu.com/tutorials) ou ouvrez une issue dans ce dépôt.
 
 ---
